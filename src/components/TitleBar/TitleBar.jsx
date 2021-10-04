@@ -1,5 +1,5 @@
 import React from "react";
-import './TitleBar.css'
+import './TitleBar.css';
 
 
 function TitleBar(props){
